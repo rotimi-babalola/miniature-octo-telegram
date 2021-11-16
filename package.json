@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/rotimi-babalola/miniature-octo-telegram#readme",
   "dependencies": {
-    "aws-sdk": "^2.696.0",
+    "aws-sdk": "^2.814.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1"
